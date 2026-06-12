@@ -2,6 +2,8 @@
 
 **GUI tool for Anodization and Electrochemical Data Visualization**
 
+Note: The software interface and menus are currently available only in Portuguese (Brazilian Portuguese).
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-2.5-informational)
